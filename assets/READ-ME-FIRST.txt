@@ -1,0 +1,28 @@
+================================================================
+APEX GROWTH CORP — META SCREENSHOTS SETUP
+================================================================
+
+Active screenshot files used by the website:
+
+  meta-roas-3.png   ← 4.99× ROAS (Service · Health vertical)
+                      4,698 results / 224,769 reach / $0.11 cost-per-result
+
+  meta-roas-4.png   ← 4.78× ROAS (DTC · Skincare brand)
+                      260 purchases / £14.72 CPP / £40,666 conv. value
+
+  meta-roas-5.png   ← 35.69× ROAS (E-Comm · Apparel — HERO IMAGE)
+                      24,379 purchases / €0.74 CPP / €644,378 conv. value
+
+PNG or JPG works. They display as-is, no editing.
+The website auto-falls-back to a "drop image here" message
+if a file is missing.
+
+Where each image appears:
+  - Hero proof section (front page, next to hero text):  meta-roas-5.png
+  - "Live Meta Ads dashboards" Row 1 (4.78×):            meta-roas-4.png
+  - "Live Meta Ads dashboards" Row 2 (35.69×):           meta-roas-5.png
+  - "Live Meta Ads dashboards" Row 3 (4.99×):            meta-roas-3.png
+
+Legacy (kept on disk, not referenced by site):
+  meta-roas-1.png, meta-roas-2.png — older 4.19× / 8.59× snapshots.
+================================================================
